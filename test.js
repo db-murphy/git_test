@@ -4,4 +4,5 @@ var c = 30;
 var b = 20;
 var b = 20;
 
-1
+
+var sss = 123;
