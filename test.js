@@ -4,6 +4,4 @@ var b = 20;
 var b = 20;
 
 
-var sss = 123;
-
-console.log(1);
+var sss = 1234444;
