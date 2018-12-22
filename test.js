@@ -5,3 +5,5 @@ var b = 20;
 
 
 var sss = 123;
+
+console.log(1);
